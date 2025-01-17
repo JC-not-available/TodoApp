@@ -7,6 +7,18 @@ I have also spin up my codespaces server to run the service so you can directly 
 Regards,
 JC.
 
+Commands to setup the project to run
+
+![image](https://github.com/user-attachments/assets/b3107c39-64d5-420c-96af-f8ea8eb4bd81)
+
+
+
+Unit Test results
+
+![image](https://github.com/user-attachments/assets/210a3d6c-f782-4379-b7cd-b9fc7880d20a)
+
+
+
 Inserting new todo
 
 ![Screenshot 2025-01-17 115451](https://github.com/user-attachments/assets/d9dbc3d5-bbb2-466e-9564-18ee64a1b6c0)
@@ -41,4 +53,5 @@ Deleting todo
 
 
 Swagger Docs
+
 ![image](https://github.com/user-attachments/assets/aef1c56d-9b10-4953-97d6-a2888a9b0512)
