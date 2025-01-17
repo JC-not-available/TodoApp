@@ -17,7 +17,7 @@ Inserting new todo
 
 
 
-    
+
 
 Updating todo
 
@@ -37,3 +37,8 @@ Deleting todo
 ![Screenshot 2025-01-17 115841](https://github.com/user-attachments/assets/e888d6d1-c7f0-449e-8d7e-60355b8fdff7)
 ![Screenshot 2025-01-17 115848](https://github.com/user-attachments/assets/ce4528b2-4e1f-4f70-8b31-6ae1775bc892)
 ![Screenshot 2025-01-17 115854](https://github.com/user-attachments/assets/d21f1ad8-ab1f-48d5-9748-f6d6704888f4)
+
+
+
+Swagger Docs
+![image](https://github.com/user-attachments/assets/aef1c56d-9b10-4953-97d6-a2888a9b0512)
