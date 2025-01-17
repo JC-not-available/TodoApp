@@ -6927,11 +6927,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/codespaces-blank/TodoApp/TodoApp/TodoApp.csproj",
+      "projectUniqueName": "/workspaces/TodoApp/TodoApp/TodoApp.csproj",
       "projectName": "TodoApp",
-      "projectPath": "/workspaces/codespaces-blank/TodoApp/TodoApp/TodoApp.csproj",
+      "projectPath": "/workspaces/TodoApp/TodoApp/TodoApp.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/codespaces-blank/TodoApp/TodoApp/obj/",
+      "outputPath": "/workspaces/TodoApp/TodoApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
