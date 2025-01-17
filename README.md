@@ -1,6 +1,7 @@
 # TodoApp
 
-I have spin up my codespaces server to run the service so you can directly check the functions without the setup
+I have spin up my codespaces server to run the service so you can directly check the functions without the setup.
+
 In case the link provided can't be accessed, please contact me.
 
 Regards,
