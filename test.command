@@ -1,0 +1,1 @@
+under Tests directory, issue bash ../../.vscode/Test.sh
