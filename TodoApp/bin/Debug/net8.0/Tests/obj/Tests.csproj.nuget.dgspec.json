@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/codespaces-blank/TodoApp/TodoApp/Tests/Tests.csproj": {}
+    "/workspaces/TodoApp/TodoApp/Tests/Tests.csproj": {}
   },
   "projects": {
-    "/workspaces/codespaces-blank/TodoApp/TodoApp/Tests/Tests.csproj": {
+    "/workspaces/TodoApp/TodoApp/Tests/Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/codespaces-blank/TodoApp/TodoApp/Tests/Tests.csproj",
+        "projectUniqueName": "/workspaces/TodoApp/TodoApp/Tests/Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "/workspaces/codespaces-blank/TodoApp/TodoApp/Tests/Tests.csproj",
+        "projectPath": "/workspaces/TodoApp/TodoApp/Tests/Tests.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/codespaces-blank/TodoApp/TodoApp/Tests/obj/",
+        "outputPath": "/workspaces/TodoApp/TodoApp/Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/workspaces/codespaces-blank/TodoApp/TodoApp/TodoApp.csproj": {
-                "projectPath": "/workspaces/codespaces-blank/TodoApp/TodoApp/TodoApp.csproj"
+              "/workspaces/TodoApp/TodoApp/TodoApp.csproj": {
+                "projectPath": "/workspaces/TodoApp/TodoApp/TodoApp.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "/workspaces/codespaces-blank/TodoApp/TodoApp/TodoApp.csproj": {
+    "/workspaces/TodoApp/TodoApp/TodoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/codespaces-blank/TodoApp/TodoApp/TodoApp.csproj",
+        "projectUniqueName": "/workspaces/TodoApp/TodoApp/TodoApp.csproj",
         "projectName": "TodoApp",
-        "projectPath": "/workspaces/codespaces-blank/TodoApp/TodoApp/TodoApp.csproj",
+        "projectPath": "/workspaces/TodoApp/TodoApp/TodoApp.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/codespaces-blank/TodoApp/TodoApp/obj/",
+        "outputPath": "/workspaces/TodoApp/TodoApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"

@@ -347,3 +347,12 @@
 /workspaces/TodoApp/TodoApp/obj/Debug/net8.0/TodoApp.pdb
 /workspaces/TodoApp/TodoApp/obj/Debug/net8.0/TodoApp.genruntimeconfig.cache
 /workspaces/TodoApp/TodoApp/obj/Debug/net8.0/ref/TodoApp.dll
+/workspaces/TodoApp/TodoApp/bin/Debug/net8.0/Tests/bin/Debug/net8.0/appsettings.Development.json
+/workspaces/TodoApp/TodoApp/bin/Debug/net8.0/Tests/bin/Debug/net8.0/appsettings.json
+/workspaces/TodoApp/TodoApp/bin/Debug/net8.0/Tests/bin/Debug/net8.0/Tests.deps.json
+/workspaces/TodoApp/TodoApp/bin/Debug/net8.0/Tests/bin/Debug/net8.0/Tests.runtimeconfig.json
+/workspaces/TodoApp/TodoApp/bin/Debug/net8.0/Tests/bin/Debug/net8.0/Tests/obj/project.assets.json
+/workspaces/TodoApp/TodoApp/bin/Debug/net8.0/Tests/bin/Debug/net8.0/Tests/obj/Tests.csproj.nuget.dgspec.json
+/workspaces/TodoApp/TodoApp/bin/Debug/net8.0/Tests/bin/Debug/net8.0/TodoApp.deps.json
+/workspaces/TodoApp/TodoApp/bin/Debug/net8.0/Tests/bin/Debug/net8.0/TodoApp.runtimeconfig.json
+/workspaces/TodoApp/TodoApp/bin/Debug/net8.0/Tests/obj/Debug/net8.0/Tests.sourcelink.json

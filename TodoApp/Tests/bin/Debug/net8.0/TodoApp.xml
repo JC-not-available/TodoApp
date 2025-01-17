@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TodoApp</name>
+    </assembly>
+    <members>
+        <member name="M:TodoApp.Api.Controllers.TodoController.GetAll">
+            <summary>
+            Get all Todo items.
+            </summary>
+            <returns>A list of all Todo items.</returns>
+            <response code="200">Returns the list of Todo items</response>
+        </member>
+        <member name="M:TodoApp.Api.Controllers.TodoController.GetById(System.Int32)">
+             <summary>
+             Returns a specific Todo item.
+             </summary>
+             <param name="id"></param>
+             <returns>Return the Todo item with matching ID </returns>
+             <remarks>
+             Sample request:
+            
+                 GET api/Todo/1
+            
+             </remarks>
+             <response code="200">Returns the specific item</response>
+             <response code="404">If the item doesn't exist</response>
+        </member>
+        <member name="M:TodoApp.Api.Controllers.TodoController.Create(TodoApp.Core.Entities.TodoItem)">
+             <summary>
+             Creates a Todo Item.
+             </summary>
+             <param name="todoItem"></param>
+             <returns>A newly created Todo Item</returns>
+             <remarks>
+             Sample request:
+            
+                 POST api/Todo
+                 {
+                    "title": "Sweep the floor",
+                    "isCompleted": true
+                 }
+            
+             </remarks>
+             <response code="201">Returns the newly created item</response>
+             <response code="400">If the item is null</response>
+        </member>
+        <member name="M:TodoApp.Api.Controllers.TodoController.Update(System.Int32,TodoApp.Core.Entities.TodoItem)">
+             <summary>
+             Updates a Todo Item.
+             </summary>
+             <param name="id">The ID of the Todo item to update.</param>
+             <param name="todoItem">The Updated Todo item</param>
+             <returns>No content</returns>
+             <remarks>
+             Sample request:
+            
+                 PUT api/Todo/1
+                 {
+                    "id": "1",
+                    "title": "Mop the floor",
+                    "isCompleted": true
+                 }
+            
+             </remarks>
+             <response code="204">Item updated</response>
+        </member>
+        <member name="M:TodoApp.Api.Controllers.TodoController.Delete(System.Int32)">
+             <summary>
+             Deletes a Todo item.
+             </summary>
+             <param name="id">The ID of the Todo item to delete.</param>
+             <returns>No content</returns>
+             <remarks>
+             Sample request:
+            
+                 DELETE api/Todo/1
+            
+             </remarks>
+             <response code="204">If the deletion is successful</response>
+             <response code="404">If the item is not found</response>
+        </member>
+        <member name="M:TodoApp.Api.Controllers.TodoController.Reset">
+            <summary>
+            Delete all Todo items and reset the ID sequence.
+            </summary>
+            <returns>No content</returns>
+            <response code="204">If the deletion is successful</response>
+        </member>
+    </members>
+</doc>
